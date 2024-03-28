@@ -995,7 +995,7 @@ effects
 
 .effects .img img {
     display: block;
-    margin: 0;
+    margin-left:40;
     padding: 0;
     height: auto;
 }
