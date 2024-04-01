@@ -995,9 +995,10 @@ effects
 
 .effects .img img {
     display: block;
-    margin-left:40;
+    margin:0;
     padding: 0;
     height: auto;
+    width: auto;
 }
 
 .overlay {
